@@ -10,6 +10,9 @@
   },
   "dependencies": {
     "@magic-ext/oidc": "^1.0.1",
+    "@okta/okta-auth-js": "^7.2.0",
+    "@okta/okta-react": "^6.7.0",
+    "@okta/okta-signin-widget": "^7.4.0",
     "eslint": "8.36.0",
     "eslint-config-next": "13.2.4",
     "magic-sdk": "^13.6.0",
