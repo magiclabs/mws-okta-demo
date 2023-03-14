@@ -1,4 +1,4 @@
-const oktaConfig = {
+const config = {
   oidc: {
     issuer: process.env.OKTA_OAUTH2_ISSUER,
     clientId: process.env.OKTA_OAUTH2_CLIENT_ID,
@@ -13,4 +13,4 @@ const oktaConfig = {
   },
 };
 
-export default oktaConfig;
+export default config;
